@@ -1,2 +1,2 @@
 # learn-kotlin
-Educational repository
+Этот репозотрий создан для изучения языка программирования Kotlin.
